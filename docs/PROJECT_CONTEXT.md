@@ -46,6 +46,6 @@ React 19、TypeScript、Vite 8、Tailwind CSS 4、React Router hash 路由；页
 - 类型检查与生产构建：通过；npm 安装审计为 0 vulnerabilities。
 - 桌面与 320 px 手机浏览器：首页、筛选、五个项目详情、简历和 404 路由均检查，无横向溢出。
 - 交互：项目分类筛选、移动导航打开/关闭和页首按钮已验证。
-- GitHub Pages：根站点与 /robotics-portfolio/ 子路径均构建成功；子路径下脚本、样式、头像、图表、仿真截图和 PDF 均返回 200，浏览器控制台无错误。首次 GitHub Actions 发布在上传后核验。
+- GitHub Pages：根站点与 /robotics-portfolio/ 子路径均构建成功；子路径下脚本、样式、头像、图表、仿真截图和 PDF 均返回 200，浏览器控制台无错误。`czself/resume` 已通过 GitHub Actions 发布到 `https://czself.github.io/resume/`，公网页面返回 200。
 - 简历 PDF：浏览器打印生成，A4 单页；PDF 文本和下载路径可读。
 - GitHub 账号个人主页 README 与账号头像设置尚未更改；Gitee 远程仓库未写入。
